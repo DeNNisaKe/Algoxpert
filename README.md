@@ -1,5 +1,7 @@
 # Algoxpert – Intelligent System for Identification of Odors
 
+## IEEE: https://ieeexplore.ieee.org/abstract/document/10819190
+
 ## Project Overview
 
 **Algoxpert** is an intelligent system developed for the identification and classification of different types of coffee based on their unique chemical signatures. It uses gas sensors to detect volatile organic compounds (VOCs) and sulfuric organic compounds (SOCs) from coffee beans, employing machine learning algorithms for accurate classification.
