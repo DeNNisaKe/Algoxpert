@@ -28,7 +28,7 @@
     "@nestjs/platform-socket.io": "^10.3.3",
     "@nestjs/websockets": "^10.3.3",
     "@tensorflow/tfjs": "^4.17.0",
-    "@tensorflow/tfjs-node": "^4.17.0",
+    "@tensorflow/tfjs-node": "^4.22.0",
     "ml": "^6.0.0",
     "ml-random-forest": "^2.1.0",
     "reflect-metadata": "^0.1.13",
